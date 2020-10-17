@@ -1,5 +1,7 @@
 {
   "name": "chatSocketIo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
